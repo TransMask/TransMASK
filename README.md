@@ -7,7 +7,7 @@
 
 ![TransMASK](./docs/resources/intro.gif)
 
-[**Installation**](#installation) | [**Prepare Dataset**](#downloading-the-dataset) | [**Train️‍**](#train) | [**Evaluate**](#evaluation) | [**Project Website**](https://collab.me.vt.edu/TransMASK/)
+[**Installation**](#installation) | [**Prepare Dataset**](#downloading-the-dataset) | [**Train️‍**](#train) | [**Evaluate**](#evaluation) | [**Project Website**](https://transmask.github.io/TransMASK/)
 
 ## Installation
 ### Clone this Repo
